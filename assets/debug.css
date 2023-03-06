@@ -2,33 +2,66 @@ header{
     background-color: aqua;
 }
 
-nav{
+.yellow{
     background-color: yellow;
-    border: 1px dashed black;
+    border: 2px dashed black;
 }
 
 .blu{
     background-color: blue;
+    border: 2px dashed black;
 }
 
 .pink{
     background-color: pink;
-    border: 1px dashed black;
+    border: 2px dashed black;
 }
 
 .scheda{
     background-color: aqua;
+    border: 2px dashed black;
 }
 
 .scheda1{
     background-color: pink;
+    border: 2px dashed black;
 }
 
 .gray{
     background-color: lightgrey;
+    border: 2px dashed black;
 }
 
 .green{
     background-color: green;
+    border: 2px dashed black;
+}
+
+.black{
+    background-color: black;
+    border: 2px dashed black;
+}
+
+.tabella{
+    background-color: rgb(201, 126, 139);
+    border: 2px dashed black;
+}
+
+.tabella1{
+    background-color: rgb(52, 179, 162);
+    border: 2px dashed white;
+}
+
+footer{
+    background-color: black;
+}
+
+.greenbox{
+    background-color: rgb(117, 218, 179);
+}
+
+.rosabrut{
+    background-color: rgb(201, 126, 139);
+    border: 2px dashed black;
 }
 
