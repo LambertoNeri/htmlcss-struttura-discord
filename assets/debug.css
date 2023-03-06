@@ -7,11 +7,19 @@ nav{
     border: 1px dashed black;
 }
 
-.containerblu{
+.blu{
     background-color: blue;
 }
 
 .pink{
     background-color: pink;
     border: 1px dashed black;
+}
+
+.scheda{
+    background-color: aqua;
+}
+
+.scheda1{
+    background-color: pink;
 }

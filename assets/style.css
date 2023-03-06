@@ -34,7 +34,7 @@ nav{
     display: flex;
 }
 
-.containerblu{
+.container1{
     height: 700px;
     padding-top: 3rem;
     padding-bottom: 3rem;
@@ -45,4 +45,17 @@ nav{
  flex: 0 0 60%;
  height: 100%;
 }
- 
+
+.scheda{
+    flex: 0 0 60%;
+    height: 100%;
+}
+
+.scheda1{
+    flex: 0 0 20%;
+    height: 100%;
+}
+
+.center{
+    justify-content: center;
+}
