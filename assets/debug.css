@@ -4,7 +4,7 @@ header{
 
 nav{
     background-color: yellow;
-    border: 1px dotted black;
+    border: 1px dashed black;
 }
 
 .containerblu{
@@ -13,4 +13,5 @@ nav{
 
 .pink{
     background-color: pink;
+    border: 1px dashed black;
 }

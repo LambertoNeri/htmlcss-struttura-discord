@@ -13,7 +13,6 @@ header{
     max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
-    display: flex;
 }
 
 nav{
@@ -29,16 +28,21 @@ nav{
 
 .logo{
     flex: 0 0 20%;
-    
+}
+
+.flex{
+    display: flex;
 }
 
 .containerblu{
     height: 700px;
-    display: flex;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
 }
 
 .pink{
  margin: auto;
  flex: 0 0 60%;
- height: 37rem;
+ height: 100%;
 }
+ 
