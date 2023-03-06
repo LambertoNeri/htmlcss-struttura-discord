@@ -7,8 +7,6 @@
 header{
     padding-bottom: 1rem;
     padding-top: 1rem;
-    
-
 }
     
 .container{
@@ -27,11 +25,20 @@ nav{
 
 .link{
      flex: 0 0 60%;
-     text-align: center;
-     flex-wrap: wrap;
-    }
+}
 
 .logo{
     flex: 0 0 20%;
     
+}
+
+.containerblu{
+    height: 700px;
+    display: flex;
+}
+
+.pink{
+ margin: auto;
+ flex: 0 0 60%;
+ height: 37rem;
 }
